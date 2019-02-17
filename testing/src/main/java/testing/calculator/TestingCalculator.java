@@ -8,7 +8,7 @@ public class TestingCalculator {
         int a = 5;
         int b = 3;
 
-        if(calculator.add(a, b)==8){
+        if(calculator.add(a, b) == 8){
             System.out.println("Test OK");
         }else {
             System.out.println("Error");
